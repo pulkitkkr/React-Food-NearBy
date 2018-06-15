@@ -2,6 +2,7 @@
   "name": "food-nearby",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://cors.io/",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.1",
